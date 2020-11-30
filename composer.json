@@ -1,0 +1,12 @@
+{"autoload": {
+    "psr-4": {
+      "App\\":"classes/",
+      "Contract\\":"interfaces/"
+    }
+  },
+  "require": {
+    "ext-curl": "*",
+    "ext-json": "*",
+        "guzzlehttp/guzzle": "7.0"
+  }
+}
